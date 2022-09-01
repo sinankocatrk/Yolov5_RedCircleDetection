@@ -37,7 +37,7 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 
 ```bash
 git clone https://github.com/sinankocatrk/Yolov5_RedCircleDetection  # clone
-cd yolov5
+cd Yolov5_RedCircleDetection
 pip install -r requirements.txt  # install
 ```
 
