@@ -1,7 +1,7 @@
 <div align="center">
 <p>
    <a align="left" href="https://medium.com/@sinankocatrk/g%C3%B6r%C3%BCnt%C3%BC-i%C5%9Fleme-raporlar%C4%B1m-1-d360f4548175" target="_blank">
-   <img width="850" src="https://user-images.githubusercontent.com/76816180/187943155-70622b45-73d5-4d03-9487-39cbe45e56b3.png"></a>
+   <img width="550" src="https://user-images.githubusercontent.com/76816180/187943155-70622b45-73d5-4d03-9487-39cbe45e56b3.png"></a>
 </p>
 <br>
 
