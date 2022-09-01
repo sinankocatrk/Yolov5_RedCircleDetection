@@ -22,8 +22,8 @@ YOLOv5 🚀 is a family of object detection architectures and models pretrained 
 
 ## <div align="center">Documentation</div>
 
-https://medium.com/@sinankocatrk/g%C3%B6r%C3%BCnt%C3%BC-i%C5%9Fleme-raporlar%C4%B1m-1-d360f4548175
-https://medium.com/@sinankocatrk/g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-raporlar%C4%B1m-2-112ebd0c9faf
+https://medium.com/@sinankocatrk/g%C3%B6r%C3%BCnt%C3%BC-i%C5%9Fleme-raporlar%C4%B1m-1-d360f4548175 <br>
+https://medium.com/@sinankocatrk/g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-raporlar%C4%B1m-2-112ebd0c9faf <br>
 https://medium.com/p/c94694c69527
 
 ## <div align="center">Quick Start Examples</div>
