@@ -65,12 +65,10 @@ results = model(img)
 # Results
 results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
 ```
-
 </details>
 
+<details open>
 
-
-<details>
 <summary>Inference with detect.py</summary>
 
 `detect.py` runs inference on a variety of sources, downloading [models](https://github.com/ultralytics/yolov5/tree/master/models) automatically from
