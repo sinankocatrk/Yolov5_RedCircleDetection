@@ -86,9 +86,6 @@ python detect.py --weight best.pt --source 0  # webcam
                                           'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
 
-</details>
-
-<details>
 
 
 
